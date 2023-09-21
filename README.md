@@ -3,8 +3,8 @@
 
 *Please note that the compiler is under active development, we will update this article as new functionality becomes available. We will be glad for your participation in the development, testing and voicing of proposals. Feel free in [Issues](https://github.com/powertech-center/clang/issues), [Discussions](https://github.com/powertech-center/clang/discussions) or in the telegram group [PowerTech C/C++ Beta](https://t.me/powercpp_beta).*
 
-### Install
-Now you can freely download the **Beta** version of the compiler, unzip the archive corresponding to your operating system and use it. Using our scripts you can easily change the `PATH` environment variable or create the necessary symlinks, more details in the [Portable Installation](/docs/portable-installation.md) page.
+### Installation
+Now you can freely download the **Beta** version of the compiler, unpack the archive corresponding to your operating system and use it. Using our scripts you can easily change the `PATH` environment variable or create the necessary symlinks, more details in the [Portable Installation](/docs/portable-installation.md) page.
 * Windows x64: [powerclang-windows-x64.7z](https://powertech.center/data/clang/beta/powerclang-windows-x64.7z)
 * Linux x64: [powerclang-linux-x64.7z](https://powertech.center/data/clang/beta/powerclang-linux-x64.7z)
 * Linux ARM64: [powerclang-linux-arm64.7z](https://powertech.center/data/clang/beta/powerclang-linux-arm64.7z)
